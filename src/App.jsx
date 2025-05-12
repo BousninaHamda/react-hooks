@@ -1,4 +1,4 @@
-import { UseEffectChallenge } from "./hooks/02-useEffect.jsx/03-challenge";
+import { UseEffectChallenge } from "./hooks/02-useEffect/03-challenge";
 
 function App() {
   return (

@@ -1,9 +1,9 @@
-import { UseEffectMultiple } from "./hooks/02-useEffect.jsx/02-useEffect-multiple";
+import { UseEffectChallenge } from "./hooks/02-useEffect.jsx/03-challenge";
 
 function App() {
   return (
     <div className="container">
-      <UseEffectMultiple />
+      <UseEffectChallenge />
     </div>
   );
 }

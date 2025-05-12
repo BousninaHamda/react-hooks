@@ -1,9 +1,9 @@
-import { UseEffectBasics } from "./hooks/02-useEffect.jsx/01-useEffect-basics";
+import { UseEffectMultiple } from "./hooks/02-useEffect.jsx/02-useEffect-multiple";
 
 function App() {
   return (
     <div className="container">
-      <UseEffectBasics />
+      <UseEffectMultiple />
     </div>
   );
 }

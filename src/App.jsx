@@ -1,9 +1,9 @@
-import UseStateObject from "./hooks/01-useState/03-useState-object";
+import { UseEffectBasics } from "./hooks/02-useEffect.jsx/01-useEffect-basics";
 
 function App() {
   return (
     <div className="container">
-      <UseStateObject />
+      <UseEffectBasics />
     </div>
   );
 }

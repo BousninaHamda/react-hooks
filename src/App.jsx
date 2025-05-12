@@ -1,9 +1,9 @@
-import { UseEffectChallenge } from "./hooks/02-useEffect/03-challenge";
+import { MultipleReturnsChallenge } from "./hooks/03-multiple-returns/challenge";
 
 function App() {
   return (
     <div className="container">
-      <UseEffectChallenge />
+      <MultipleReturnsChallenge />
     </div>
   );
 }

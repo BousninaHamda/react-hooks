@@ -1,10 +1,9 @@
-import { ToggleChallengeTernary } from "./hooks/03-multiple-returns/toggle-challenge-ternary";
-import { UserChallenge } from "./hooks/03-multiple-returns/user-challenge";
+import ControlledInputs from "./hooks/04-forms/01-controlled-inputs";
 
 function App() {
   return (
     <div className="container">
-      <UserChallenge />
+      <ControlledInputs />
     </div>
   );
 }

@@ -1,9 +1,9 @@
-import ControlledInputs from "./hooks/04-forms/01-controlled-inputs";
+import UserChallenge from "./hooks/04-forms/02-user-challenge";
 
 function App() {
   return (
     <div className="container">
-      <ControlledInputs />
+      <UserChallenge />
     </div>
   );
 }

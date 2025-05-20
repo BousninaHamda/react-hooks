@@ -1,9 +1,9 @@
-import UserChallenge from "./hooks/04-forms/02-user-challenge";
+import FetchData from "./hooks/05-customHook/01-fetch-data";
 
 function App() {
   return (
     <div className="container">
-      <UserChallenge />
+      <FetchData />
     </div>
   );
 }

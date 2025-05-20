@@ -1,9 +1,9 @@
-import FetchData from "./hooks/05-customHook/01-fetch-data";
+import Navbar from "./hooks/06-context-api/Navbar";
 
 function App() {
   return (
     <div className="container">
-      <FetchData />
+      <Navbar />
     </div>
   );
 }

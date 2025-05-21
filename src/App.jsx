@@ -1,9 +1,9 @@
-import Navbar from "./hooks/06-context-api/Navbar";
+import UseReducer from "./hooks/07-useReducer/01-useReducer";
 
 function App() {
   return (
     <div className="container">
-      <Navbar />
+      <UseReducer />
     </div>
   );
 }
